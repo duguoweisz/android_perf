@@ -10,4 +10,11 @@ WeChat: dgw_cn
 Kernel: 5.10.66  
 Android: 12 
 
-Note:boot-record feature needs android13.  
+Note:  
+'boot-record' feature needs android13.  
+
+simpleperf:  
+Android源码：位于system/extras/simpleperf/  
+
+perf:  
+Linux源码：位于tools/perf/  
